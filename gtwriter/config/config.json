@@ -1,0 +1,9 @@
+{
+	"image_width": 640,
+	"image_height": 480,
+	"scenes_path": "C:/Users/z003vyky/Desktop/primesense-scans",
+	"intrinsics_file": "C:/Projects/librefiner/config/primesense_intrinsics.txt",
+	"models_path": "C:/Users/z003vyky/Desktop/roman-scans-ds",
+	"focal_length_scale": 0.75,
+	"out_path": "C:/Users/z003vyky/Desktop/scalability_test"
+}

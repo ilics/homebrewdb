@@ -1,0 +1,10 @@
+{
+	"reference_models_dir": "C:/Users/z003vyky/Desktop/demo_reference_models",
+	"intrinsics_file": "C:/Projects/hbdb-code-release/refiner/config/primesense_intrinsics.txt",
+	"max_iterations": 10,
+	"edge_search_span": 15,
+	"point_sampling_step": 4,
+	"model_padding_pixels": 20,
+	"occlusion_threshold": 0.05,
+	"object_visibility_threshold": 0.8
+}
